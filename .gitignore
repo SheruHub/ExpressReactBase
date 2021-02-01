@@ -19,3 +19,5 @@ client/*.log
 **/package-lock.json
 **/node_modules
 **/*.env
+
+.vscode
